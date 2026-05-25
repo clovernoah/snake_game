@@ -1,7 +1,7 @@
 ﻿#define NODE_WIDTH 40
 #define WIDTH 800          // 窗口宽度
 #define HEIGHT 600         // 窗口高度
-#define MAX_SNAKE_LENGTH 100  // 蛇的最大长度
+#define MAX_SNAKE_LENGTH 100  // 蛇最大长度
 #include <easyx.h>
 #include <stdio.h>
 #include <stdlib.h>
